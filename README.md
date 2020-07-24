@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/-@weilkss-%23181717?style=flat-square&logo=github)](https://github.com/weilkss)
 ![WEB](https://img.shields.io/badge/-Web-%232c3e50?style=flat-square&logo=iOS)
 
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/weilkss/11)
+
 ## 老板叫我写个可以赚钱的小程序～
 
 - 没有什么技术，还不会讨好上级，活到现在真的是个奇迹！
