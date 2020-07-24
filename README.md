@@ -1,8 +1,8 @@
-# 🤪 哈喽！我是一个憨憨前端 Weilkss٩(๑>◡<๑)۶
-#### 🤪 Hello! I am a stupid front end. weilkss٩(๑>◡<๑)۶
+# 🤪 哈喽！我是一个憨憨前端开发 Weilkss٩(๑>◡<๑)۶
+#### 🤪 Hello! I am a simple web developer. Weilkss٩(๑>◡<๑)۶
 
 [![](https://img.shields.io/badge/-@weilkss-%23181717?style=flat-square&logo=github)](https://github.com/weilkss)
-![WEB](https://img.shields.io/badge/-Web-%232c3e50?style=flat-square&logo=WEB)
+![WEB](https://img.shields.io/badge/-Web-%232c3e50?style=flat-square&logo=iOS)
 
 ## 老板叫我写个可以赚钱的小程序～
 
