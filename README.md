@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@weilkss-%23181717?style=flat-square&logo=github)](https://github.com/weilkss)
 ![](https://img.shields.io/badge/web-developer-brightgreen)
 
-## 老板叫我写个可以赚钱的小程序～
+## 老板叫我写个可以赚钱的程序～
 
 - 没有什么技术，还不会讨好上级，活到现在真的是个奇迹！
 - 日常怼老板，怼产品，怼测试，甚至连UI小妹妹都要怼～
