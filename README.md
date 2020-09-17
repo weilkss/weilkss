@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@weilkss-%23181717?style=flat-square&logo=github)](https://github.com/weilkss)
 ![](https://img.shields.io/badge/web-developer-brightgreen)
 
-## 个人技能
+## Skill
 ![](https://img.shields.io/badge/-HTML-brightgreen)
 ![](https://img.shields.io/badge/-CSS-green)
 ![](https://img.shields.io/badge/-JavaScript-yellowgreen)
@@ -13,9 +13,9 @@
 ![](https://img.shields.io/badge/-JQuery-red)
 ![](https://img.shields.io/badge/-Webpack-lightgrey)
 ![](https://img.shields.io/badge/-NodeJs-blue)
-![](https://img.shields.io/badge/-TypeScript-#000)
-![](https://img.shields.io/badge/-Java-red)
-![](https://img.shields.io/badge/-SpringBoot-red)
+![](https://img.shields.io/badge/-TypeScript-brown)
+![](https://img.shields.io/badge/-Java-purple)
+![](https://img.shields.io/badge/-SpringBoot-bronze)
 
 ## Stats
 
