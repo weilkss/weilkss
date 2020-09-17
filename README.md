@@ -4,12 +4,18 @@
 [![](https://img.shields.io/badge/-@weilkss-%23181717?style=flat-square&logo=github)](https://github.com/weilkss)
 ![](https://img.shields.io/badge/web-developer-brightgreen)
 
-## 老板叫我写个可以赚钱的程序～
-
-- 没有什么技术，还不会讨好上级，活到现在真的是个奇迹！
-- 日常怼老板，怼产品，怼测试，甚至连UI小妹妹都要怼～
-- 开源项目没有，就是胡乱操作一通，假装自己很厉害的样子
-- 如果阔以，我愿意去写字楼下炒河粉
+## 个人技能
+![](https://img.shields.io/badge/-HTML-brightgreen)
+![](https://img.shields.io/badge/-CSS-green)
+![](https://img.shields.io/badge/-JavaScript-yellowgreen)
+![](https://img.shields.io/badge/-React-yellow)
+![](https://img.shields.io/badge/-Vue-orange)
+![](https://img.shields.io/badge/-JQuery-red)
+![](https://img.shields.io/badge/-Webpack-lightgrey)
+![](https://img.shields.io/badge/-NodeJs-blue)
+![](https://img.shields.io/badge/-TypeScript-#000)
+![](https://img.shields.io/badge/-Java-red)
+![](https://img.shields.io/badge/-SpringBoot-red)
 
 ## Stats
 
