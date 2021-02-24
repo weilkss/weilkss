@@ -16,6 +16,8 @@
 ![](https://img.shields.io/badge/-TypeScript-brown)
 ![](https://img.shields.io/badge/-Java-purple)
 ![](https://img.shields.io/badge/-SpringBoot-pewter)
+![](https://img.shields.io/badge/-Python-salmon)
+![](https://img.shields.io/badge/-Django-slateblue)
 
 ## Stats
 
